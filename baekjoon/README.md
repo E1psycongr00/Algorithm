@@ -6,6 +6,7 @@
 5. [내려가기(dp)](easy/내려가기.md)
 6. [트리순회2263(preorder,inorder,postorder)](easy/트리순회2263.md)
 7. [피보나치수 6(분할정복, 행렬)](easy/피보나치수_6.md)
+8. [A->B](easy/A→B.md)
 # middle
 1. [구간합 구하기  (Fenwick)](middle/11659.md)
 2. [테트로미노  (구현, 백트레킹)](middle/14500.md)
