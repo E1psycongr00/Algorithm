@@ -11,6 +11,7 @@
 10. [트리의부모찾기](easy/트리의부모찾기.md)
 11. [오키도키 간식 드리미(stack)](easy/도키도키간식드리미.md)
 12. [오큰수(stack)](easy/오큰수.md)
+13. [숫자카드2(lower,upper_bound, hash)](easy/숫자카드2.md)
 # middle
 1. [구간합 구하기  (Fenwick)](middle/11659.md)
 2. [테트로미노  (구현, 백트레킹, 패딩)](middle/14500.md)
